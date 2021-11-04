@@ -1,0 +1,1 @@
+{"version":3,"file":"SuperPropsProps.d.ts","sourceRoot":"","sources":["../../../../src/interfaces/SuperPropsProps.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,eAAe,CAAC;AACjC,OAAO,UAAU,MAAM,qBAAqB,CAAC;AAE7C,MAAM,CAAC,OAAO,WAAW,eAAe;IACpC,IAAI,EAAE,IAAI,GAAG,KAAK,CAAC,IAAI,CAAC,CAAC;IACzB,IAAI,CAAC,EAAE,KAAK,CAAC,GAAG,CAAC,CAAC;IAClB,UAAU,CAAC,EAAE,UAAU,CAAC;CAC3B"}

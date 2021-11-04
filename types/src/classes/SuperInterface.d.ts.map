@@ -1,0 +1,1 @@
+{"version":3,"file":"SuperInterface.d.ts","sourceRoot":"","sources":["../../../../src/classes/SuperInterface.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,oBAAoB,CAAC;AAC3C,OAAO,SAAS,MAAM,oBAAoB,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,cAAc;IACxB,cAAc,EAAE,SAAS,CAAC;gBAErB,cAAc,EAAE,SAAS;IAIrC,KAAK,CAAC,IAAI,EAAE,SAAS,GAAG,OAAO;CAyBlC"}
